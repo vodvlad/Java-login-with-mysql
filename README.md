@@ -1,5 +1,5 @@
 ## Java login with mysql
-Implementing simple authorization using mysql database.  
+Java login with MySQL is a personal project and it's implemented using Java language. The main purpose of the project is to build a simple authorization system that allows users to register and log in. The system uses a MySQL database to store user information and handle authentication. The project aims to provide a basic login and registration feature that can be integrated into other applications and systems.  
   
 **User registration and authorization:**  
   
